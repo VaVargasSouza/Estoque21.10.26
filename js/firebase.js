@@ -19,3 +19,5 @@ const app = initializeApp(firebaseConfig);
 
 // Cria e exporta a conexão com o Firestore
 export const db = getFirestore(app);
+
+// 

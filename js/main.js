@@ -265,3 +265,5 @@ formItem.addEventListener("submit", async (evento) => {
 // CARREGA OS ITENS AO ABRIR A PÁGINA
 
 carregarItens();
+
+// 
